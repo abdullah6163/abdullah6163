@@ -16,15 +16,6 @@
 
 ---
 
-## 📱 Featured Projects
-
-| Project | Description | Tech |
-|----------|--------------|------|
-| [BMI Calculator](https://github.com/abdullah6163/BMI-Calculator) | Calculates BMI using feet/inch and shows animated results | Java, XML, Lottie |
-| [Student Tourist Manager](https://github.com/abdullah6163/StudentTouristManager) | GUI-based travel planner for students | C++ |
-| [Agriculture Management System](https://github.com/abdullah6163/Agriculture-Management-System) | Helps manage crops and resources | Java Swing |
-
----
 
 ## 📊 GitHub Stats
 
@@ -38,7 +29,7 @@
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-abdullah6163-black?logo=github)](https://github.com/abdullah6163)
-[![Email](https://img.shields.io/badge/Email-Contact-blue?logo=gmail)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-blue?logo=gmail)](mailto:abdullah15-6163@s.diu.edu.bd)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://your-portfolio-link.vercel.app)
 
 ---
